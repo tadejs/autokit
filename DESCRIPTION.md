@@ -1,5 +1,7 @@
 # autokit - machine learning for busy people
 
+*this description will be updated*
+
 The method is based on the [hyperopt](https://github.com/hyperopt/hyperopt) and [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) packages to pose the automatic machine learning problem as a hyperparameter optimization problem.
 
 The approach  extends the hyperopt-sklearn model to include additional learning model selection that is able to determine admissible learning models given the problem description. 
